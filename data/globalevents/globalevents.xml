@@ -1,0 +1,3 @@
+
+<!-- SafeZone -->
+<globalevent name="safeZone" interval="60000" event="script" value="safeZoneEvent.lua"/>

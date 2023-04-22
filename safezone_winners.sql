@@ -1,0 +1,6 @@
+CREATE TABLE safezone_winners (
+  id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  player_id INT(11) NOT NULL,
+  placement TINYINT(1) NOT NULL,
+  date DATETIME NOT NULL
+) CHARSET=utf8mb4;
